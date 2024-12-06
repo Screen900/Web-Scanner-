@@ -4,7 +4,7 @@ I am not responsible for any misuse of this tool. This tool is for testing only 
 
 By ton studio
 
-}----------how to download---------{
+  }----------how to download---------{
 
 # For termux
 
